@@ -1,4 +1,6 @@
-﻿using System;
+﻿//******************* Tóth Ádám *********** adamtoth4@gmail.com *********** 2021.03.14 ************************
+
+using System;
 using System.Linq;
 
 namespace ConsoleApp3
